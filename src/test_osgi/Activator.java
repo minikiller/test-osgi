@@ -13,7 +13,7 @@ public class Activator implements BundleActivator {
 		System.out.println("Hello World!!");
 	}
 	
-	/*
+	/* hello thest
 	 * (non-Javadoc)
 	 * @see org.osgi.framework.BundleActivator#stop(org.osgi.framework.BundleContext)
 	 */
